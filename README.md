@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # I'm Steven Peng
-## A Taiwanese, A Web Developer, A Rock Climber and A Scout Leader
+Passionate Web Developer with extensive experience in web technologies and programming languages. Solid understanding of HTML, CSS, and JavaScript. Proficient in React.js + TypeScript. Proven knowledge of responsive web design and application development for multiple platforms including web and mobile. 
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 
 ### Front-end
