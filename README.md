@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 # I'm Steven Peng
-Passionate Web Developer with extensive experience in web technologies and programming languages. Solid understanding of HTML, CSS, and JavaScript. Proficient in React.js + TypeScript. Proven knowledge of responsive web design and application development for multiple platforms including web and mobile. 
+
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+
+Passionate Web Developer with extensive experience in web technologies and programming languages. Solid understanding of HTML, CSS, and JavaScript. Proficient in React.js + TypeScript. Proven knowledge of responsive web design and application development for multiple platforms including web and mobile. 
+
 
 ### Front-end
 
