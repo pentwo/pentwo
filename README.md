@@ -35,13 +35,6 @@ Passionate Web Developer with extensive experience in web technologies and progr
 
 - ⚡ Fun fact **I love Bouldering** 🧗‍♂️
 
-
-<!--
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
--->
-
 <!--
 **pentwo/pentwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
