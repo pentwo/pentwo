@@ -1,8 +1,5 @@
-### Hi there 👋
-
-# I'm Steven Peng
-
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+<h1 align="center">Hi 👋, I'm Steven Peng</h1>
+<h3 align="center">A passionate frontend developer 🧑‍💻 from Taiwan </h3>
 
 Passionate Web Developer with extensive experience in web technologies and programming languages. Solid understanding of HTML, CSS, and JavaScript. Proficient in React.js + TypeScript. Proven knowledge of responsive web design and application development for multiple platforms including web and mobile. 
 
@@ -29,6 +26,19 @@ Passionate Web Developer with extensive experience in web technologies and progr
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/pentwo) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/steven-peng)
 
 
+- 🌱 I’m currently learning **PHP with Laravel**
+
+- 👨‍💻 All of my projects are available at [https://www.stevenpeng.com.au](https://www.stevenpeng.com.au)
+
+- 💬 Ask me about **React or Gatsby.js**
+
+- 📫 How to reach me **hello@stevenpeng.com.au**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/steven-peng/](https://www.linkedin.com/in/steven-peng/)
+
+- ⚡ Fun fact **I love Bouldering** 🧗‍♂️
+
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -51,21 +61,7 @@ Here are some ideas to get you started:
 
 ----
 
-<h1 align="center">Hi 👋, I'm Steven Peng</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🌱 I’m currently learning **PHP with Laravel**
-
-- 👨‍💻 All of my projects are available at [https://www.stevenpeng.com.au](https://www.stevenpeng.com.au)
-
-- 💬 Ask me about **React or Gatsby.js**
-
-- 📫 How to reach me **hello@stevenpeng.com.au**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/steven-peng/](https://www.linkedin.com/in/steven-peng/)
-
-- ⚡ Fun fact **I love Bouldering**
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/pentwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pentwo" height="30" width="40" /></a>
@@ -80,3 +76,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pentwo&" alt="pentwo" /></p>
 
+-->
