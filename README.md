@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven Peng</h1>
-<h3 align="center">A passionate frontend developer 🧑‍💻 from Taiwan </h3>
+<h3 align="center">A passionate frontend developer 🧑‍💻  from Taiwan </h3>
 
 Passionate Web Developer with extensive experience in web technologies and programming languages. Solid understanding of HTML, CSS, and JavaScript. Proficient in React.js + TypeScript. Proven knowledge of responsive web design and application development for multiple platforms including web and mobile. 
 
@@ -36,10 +36,11 @@ Passionate Web Developer with extensive experience in web technologies and progr
 - ⚡ Fun fact **I love Bouldering** 🧗‍♂️
 
 
+<!--
 ### :zap: Recent Activity
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+-->
 
 <!--
 **pentwo/pentwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
